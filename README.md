@@ -15,6 +15,7 @@ O projeto foi desenvolvido em SQL utilizando o ambiente AWS Athena.
 📁 Estrutura do Projeto
 
 ├── credit_eda.ipynb       # Notebook com a análise completa
+
 ├── README.md              # Este arquivo
 
 🧪 Etapas da Análise
