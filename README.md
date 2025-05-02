@@ -13,7 +13,9 @@ O objetivo principal é explorar os dados de crédito para:
 O projeto foi desenvolvido em SQL utilizando o ambiente AWS Athena.
 
 📁 Estrutura do Projeto
-bash Copiar Editar
+bash
+Copiar
+Editar
 ├── credit_eda.ipynb       # Notebook com a análise completa
 ├── README.md              # Este arquivo
 
